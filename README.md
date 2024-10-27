@@ -1,4 +1,4 @@
-# E-commerce Ecológico Econia 🌱
+# Econia E-commerce Ecológico 🌱
 
 *Econia* es un e-commerce ficticio de la venta de productos ecológicos. En donde los usuarios pueden encontrar desde cepillos de dientes y botellas reutilizables hasta shampoos y jabones sólidos, ofreciendo alternativas para reducir el impacto ambiental en la vida diaria.
 
