@@ -39,10 +39,10 @@ Este proyecto fue desarrollado con un enfoque en la responsividad, comenzando co
   - Organizadas mediante *Flexbox* en el footer, asegurando una disposición ordenada de los enlaces uno al lado del otro.
 
 - *Media Queries*: 
-  - *Mid-Width de 850 píxeles*: Esta media query ajusta los márgenes laterales del main para proporcionar un mejor espaciado en pantallas intermedias.
+  - *min-width de 850 px*: Esta media query ajusta los márgenes laterales del main para proporcionar un mejor espaciado en pantallas intermedias.
   
-  - *Mid-Width de 1,000 píxeles*: Se retira el menú hamburguesa y se distribuyen el nombre del e-commerce y el carrito de compras en los laterales. Además, el menú de navegación cambia a verse en la segunda fila con una disposición horizontal, con los enlaces dispuestos uno al lado del otro. Esto lo logre utilizando *Grid*. 
+  - *min-width de 1000 px*: Se retira el menú hamburguesa y se distribuyen el nombre del e-commerce y el carrito de compras en los laterales. Además, el menú de navegación cambia a verse en la segunda fila con una disposición horizontal, con los enlaces dispuestos uno al lado del otro. Esto lo logre utilizando *Grid*. 
   - En las cards de productos, se modifica la disposición para mostrar filas de 3, 2 y 3. Las reseñas también se adaptan, permitiendo que dos reseñas se muestren una al lado de la otra, en una fila de dos columnas. Finalmente, el formulario de contacto se ajusta para que el área de texto sea más amplia.
 
 *productos.html*
-- *Media Query Mid-Width de 1,000 píxeles*: Se aplican cambios en la distribución del *Grid* para las imagenes.
+- *Media Query min-width de 1000 px*: Se aplican cambios en la distribución del *Grid* para las imagenes.
