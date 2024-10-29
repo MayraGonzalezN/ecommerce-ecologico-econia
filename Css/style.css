@@ -326,7 +326,7 @@
 
         main{
             margin-left: 65px;
-            margin-right: 65px;
+            margin-right: 65px; /*no se aplican los cambios de right -probando*/
         }
     }
 
