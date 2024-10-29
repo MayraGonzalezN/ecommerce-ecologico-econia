@@ -306,7 +306,9 @@
         }
 
         /*_____ CARD _____*/
-
+        .productos {
+            margin: 20px 15%;
+        }
         h3 {
             font-size: 1.5em;
             text-align: center;
@@ -316,7 +318,7 @@
             display: grid;
             grid-template-columns: 1fr 1fr;
             grid-template-rows: auto auto auto;
-            margin: 20px 15%;
+            margin: 0 16%;
         }
 
         .grid-card .card:nth-child(1) {
